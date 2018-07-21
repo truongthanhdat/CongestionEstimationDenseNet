@@ -1,0 +1,1 @@
+python eval_image_classifier.py --model_name densenet169 --checkpoint_path /home/ttdat/data/model/traffic/ --eval_dir /home/ttdat/data/log/traffic/  --dataset_name traffic --dataset_dir /home/ttdat/data/Dataset/Traffic/traffic/ --dataset_split_name $1

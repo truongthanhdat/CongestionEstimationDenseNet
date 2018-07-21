@@ -1,0 +1,1 @@
+python train_image_classifier.py --train_dir /home/ttdat/data/model/traffic --dataset_name traffic --dataset_split_name=train --dataset_dir /home/ttdat/data/Dataset/Traffic/traffic --model_name densenet169
